@@ -1,6 +1,5 @@
 # Töötuba
 
-Töötuba
 Praktiline töötuba annab osalejatele esmased oskused GitHubi kasutamiseks ning tutvustab versioonihalduse põhimõtteid igapäevases koostöös.
 
 ## Töötoa käigus õpivad osalejad:
